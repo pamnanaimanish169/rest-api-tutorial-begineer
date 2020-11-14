@@ -1,0 +1,11 @@
+{
+  "books": [
+    {
+      "title": "Harry Potter",
+      "author": "J.k. Rowling",
+      "coverImage": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/150401-tv-feature-harry-potter-image1-vpdnsqfrou.jpg",
+      "description": "A Jingles novel by Kayne West",
+      "id": 3
+    }
+  ]
+}
