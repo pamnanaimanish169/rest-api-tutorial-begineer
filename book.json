@@ -1,46 +1,11 @@
 {
   "books": [
     {
-      "title": "Harry Potter",
-      "author": "J.k. Rowling",
-      "coverImage": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/150401-tv-feature-harry-potter-image1-vpdnsqfrou.jpg",
-      "description": "A Jingles novel by Kayne West",
-      "id": 3
-    },
-    {
-      "title": "some random title",
-      "author": "J.k. Rowling",
+      "title": "jjjjjjjj",
+      "author": "jjjjjjjj",
       "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91b8oNwaV1L.jpg",
-      "description": "also called The Kingkiller Chronicle: Day One, is a fantasy novel written by American author Patrick Rothfuss. It is the first book in a series called The Kingkiller Chronicle and followed by The Wise Man's Fear.",
-      "id": 4
-    },
-    {
-      "title": "The Monk who sold his ferrari",
-      "author": "Robin Sharma",
-      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/61lGw70GGzL.jpg",
-      "description": "The No. 1 International Bestseller. Wisdom to Create a Life of Passion, Purpose and Peace. This inspiring tale provides a step-by-step approach to living with greater courage, balance, abundance and joy.",
-      "id": 5
-    },
-    {
-      "title": "some random title",
-      "author": "J.k. Rowling",
-      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91b8oNwaV1L.jpg",
-      "description": "also called The Kingkiller Chronicle: Day One, is a fantasy novel written by American author Patrick Rothfuss. It is the first book in a series called The Kingkiller Chronicle and followed by The Wise Man's Fear.",
-      "id": 6
-    },
-    {
-      "title": "some random title",
-      "author": "J.k. Rowling",
-      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91b8oNwaV1L.jpg",
-      "description": "also called The Kingkiller Chronicle: Day One, is a fantasy novel written by American author Patrick Rothfuss. It is the first book in a series called The Kingkiller Chronicle and followed by The Wise Man's Fear.",
-      "id": 7
-    },
-    {
-      "title": "Mrs Funnybones",
-      "author": "Twinkle Khanna",
-      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81M39PBwo7L.jpg",
-      "description": "Mrs Funnybones: She’s Just Like You and a Lot Like Me is a 2015 Indian non-fiction book written by former film actress Twinkle Khanna and published by Penguin India.",
-      "id": 8
+      "description": "jjjjjjjj",
+      "id": 1
     }
   ]
 }
